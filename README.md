@@ -15,7 +15,7 @@ strategic business decisions for optimizing sales and inventory management.
 
 - Handling variations in pizza sizes and categories while maintaining accurate calculations.
 
-  ### Key Insights
+### Key Insights
 
  ***Order Volume***: Identified the total count of orders placed over the period.
 
@@ -45,7 +45,7 @@ strategic business decisions for optimizing sales and inventory management.
 
 - Created a structured analysis to help in decision-making for menu optimization and marketing strategies
 
-  ### Conclusion
+ ### Conclusion
 
 This SQL-driven analysis provides valuable insights into sales trends and customer preferences, helping the business refine pricing strategies, optimize inventory, and enhance customer satisfaction.
 
